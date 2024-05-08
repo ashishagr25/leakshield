@@ -1,3 +1,4 @@
+# © 2024 ANSYS, Inc. Unauthorized use, distribution, or duplication is prohibited.
 leak_shield_headline = '''                                                                                                    
         .:=*.                                                                          .--.         
          ..=*-..                                                                    ..-+--.         
@@ -44,8 +45,8 @@ leak_shield_headline = '''
                  ..:-:.                                                      .:-..                  
                  ...                                                            ...      
 
+© 2024 ANSYS, Inc. Unauthorized use, distribution, or duplication is prohibited.
 Author: Dario Amadori 
-Contact: dario.amadori@ansys.com
 Version: 1.0a
 '''
 import os
